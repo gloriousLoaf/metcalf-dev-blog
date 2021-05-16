@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: "@ davidmcodes on Twitter.\r\nFormer sommelier, starting my second career in computer science."
+    title: "Full Stack Web Developer"
     image: >-
       https://res.cloudinary.com/practicaldev/image/fetch/s--6yvCstnB--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/449356/4db43897-35bc-49f1-83fa-d9a7c1b2982a.png
     image_alt: Author avatar

@@ -7,19 +7,16 @@ params:
     nav_links:
       - label: Home
         url: /
-      - label: Generic
-        url: /generic/
-      - label: Elements
-        url: /elements/
-      - label: Ipsum
-        url: /ipsum/
+      - label: metcalf.dev
+        url: 'https://metcalf.dev'
+        new_window: true
   footer:
     content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=vanilla&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      This Jamstack site was created with <a
+      href="https://www.stackbit.com/?utm_source=deployed-footer"
+      target="_blank" rel="noopener">Stackbit</a> and generated with <a
+      href="https://dev.to/connecting-with-stackbit" target="_blank"
+      rel="noopener">DEV</a>.
     has_social: true
     social_links:
       - label: Twitter
@@ -30,10 +27,6 @@ params:
         new_window: true
       - label: DEV
         url: 'https://dev.to/gloriousloaf'
-        new_window: true
-    links:
-      - label: Generated from DEV
-        url: 'https://dev.to/connecting-with-stackbit'
         new_window: true
 taxonomies:
   stub: stub
