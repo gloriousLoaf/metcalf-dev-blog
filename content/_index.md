@@ -15,35 +15,46 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Read more
-  - title: A Cat
-    section_id: cat
-    type: section_content
-    image_alt: Geometric pattern
 seo:
-  title: Stackbit Vanilla Theme
-  description: The preview of the Vanilla theme
+  title: Blog | metcalf.dev
+  description: A blog about all things web development, by David Metcalf.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: 'en_US'
+      keyName: property
+    - name: 'og:locale'
+      value: Blog | metcalf.dev
+      keyName: property
+    - name: 'author'
+      value: 'David Metcalf'
+      keyName: property
+    - name: 'canonical'
+      value: 'https://blog.metcalf.dev'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: A blog about all things web development, by David Metcalf.
       keyName: property
     - name: 'og:image'
-      value: images/vanilla-preview.png
+      value: images/metcalfdev-twittercard.png
+      keyName: property
+    - name: 'og:image:width'
+      value: '1600'
+      keyName: property
+    - name: 'og:image:height'
+      value: '900'
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Vanilla Theme
+      value: Blog | metcalf.dev
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: A blog about all things web development, by David Metcalf.
     - name: 'twitter:image'
-      value: images/vanilla-preview.png
+      value: images/metcalfdev-twittercard.png
       relativeUrl: true
 layout: advanced
 ---
