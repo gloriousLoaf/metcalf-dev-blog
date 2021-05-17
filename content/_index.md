@@ -46,7 +46,6 @@ seo:
     - name: 'og:image:height'
       value: '900'
       keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
@@ -55,6 +54,5 @@ seo:
       value: A blog about all things web development, by David Metcalf.
     - name: 'twitter:image'
       value: images/twittercard.png
-      relativeUrl: true
 layout: advanced
 ---
