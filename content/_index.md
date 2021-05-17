@@ -22,10 +22,10 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: 'og:locale'
       value: 'en_US'
       keyName: property
-    - name: 'og:locale'
+    - name: 'og:title'
       value: Blog | metcalf.dev
       keyName: property
     - name: 'author'
