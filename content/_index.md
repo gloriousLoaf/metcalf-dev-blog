@@ -38,7 +38,7 @@ seo:
       value: A blog about all things web development, by David Metcalf.
       keyName: property
     - name: 'og:image'
-      value: images/twittercard.png
+      value: https://blog.metcalf.dev/images/twittercard.png
       keyName: property
     - name: 'og:image:width'
       value: '1600'
@@ -53,6 +53,6 @@ seo:
     - name: 'twitter:description'
       value: A blog about all things web development, by David Metcalf.
     - name: 'twitter:image'
-      value: images/twittercard.png
+      value: https://blog.metcalf.dev/images/twittercard.png
 layout: advanced
 ---
