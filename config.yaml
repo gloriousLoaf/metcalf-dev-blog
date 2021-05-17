@@ -9,7 +9,6 @@ params:
         url: /
       - label: metcalf.dev
         url: 'https://metcalf.dev'
-        new_window: true
   footer:
     content: >-
       This Jamstack site was created with <a
